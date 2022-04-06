@@ -1,6 +1,6 @@
 PassVault
 ===
-PassVault is a simple password managment program to be run on a command prompt. It was created in python and uses secure functions for hashing and encryption to safely store the data of multiple users locally. The project code and writeup may be found [here](https://github.com/mjrad/PassVault).
+PassVault is a simple password managment program to be run on a command prompt designed as a final project for Cryptography (CS 427). It was created in python and uses secure functions for hashing and encryption to safely store the data of multiple users locally. The project code and writeup may be found [here](https://github.com/mjrad/PassVault).
 
 <SCREENSHOT HERE>
 
