@@ -1,4 +1,4 @@
-#Movis
+Movis
 ===
 Movis was created as a final project for Advanced Web Development (CS499). It was created with CreateReactApp and uses hooks that call The Move Database API. The Movie Database can be found [here](https://developers.themoviedb.org/3).
 
