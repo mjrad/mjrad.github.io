@@ -11,8 +11,8 @@ Screenshots
 
 ![Menu](menu.PNG "Start Menu")
 
-![Signup](categ.PNG "Signing Up")
+![Signup](signup.PNG "Signing Up")
 
-![Sign In](actor.PNG "Logging In")
+![Sign In](login.PNG "Logging In")
 
 ![Data Processing](data.PNG "Saving and Accessing Data")
