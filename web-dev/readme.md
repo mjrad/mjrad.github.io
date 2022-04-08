@@ -11,10 +11,10 @@ The rest of the project was handled by my team members.
 Screenshots
 ===
 
-![Genres Page](genre.png "Genre Search")
+![Genres Page](genre.PNG "Genre Search")
 
-![Category Page](categ.png "Category Search")
+![Category Page](categ.PNG "Category Search")
 
-![Actors Page](actor.png "Actor Page")
+![Actors Page](actor.PNG "Actor Page")
 
-![Movies Page](movie.png "Movies Page")
+![Movies Page](movie.PNG "Movies Page")
