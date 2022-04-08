@@ -9,10 +9,14 @@ The rest of the project was handled by my team members.
 Screenshots
 ===
 
+Start Menu
 ![Menu](menu.PNG "Start Menu")
 
+Signing Up
 ![Signup](signup.PNG "Signing Up")
 
+Logging In
 ![Sign In](login.PNG "Logging In")
 
+Saving and Accessing Data
 ![Data Processing](data.PNG "Saving and Accessing Data")
